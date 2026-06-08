@@ -1,5 +1,9 @@
 {
 
+	"brokenyoutube": "If you are reading this post on my site, the inline video gives an error. Click on the link above. The 'error' is only because the creator wants you to got to YouTube to watch it.",
+	
+	"itsajoke": "https://documents.philpin.com/micro-blog/humour",
+	
 	"threesixsix": "At the beginning of the year I had grand plans for this series. A daily long-form post about something that was rattling my brain that day. And then life. For a while, I was even just dropping markers - to revisit. I came to realise that part of the problem was the complexity of the structure for each post - so that went away. Simplicity really is rather nice. As I write on 240413, I am now going back and filling in the gaps. PLUS - unless something strikes me immediately, I will not classify until the end of the day and go back to move one of the posts of the day into the 366. Also - if you are wondering how I have update the words at the bottom of over 100 posts at a stroke, well - THANK YOU Andy Sylvester and his Glossary plugin.",
 
 	"intelligentjohn": "The source of this post is a separate blog where I am experimenting with a new AI app we are building. In other words, for now, no guarantees of the veracity of the contents.",
@@ -10,24 +14,34 @@
 
 	"humour": "ITS.A.JOKE.PEOPLE - Originally Posted On Humor.Philpin.com - a now defunct site. I moved the content here for posterity. The date of this post is the date that it was originally published on that site.",
 
+	"peoplefirstwords": "This is a People First post that was originally on the People First domain. It has been moved here as part of my domain consolidation program. It’s a steady and slow WIP as I check each entry, so do please bear with me.",
 	
-
-        "peoplefirstwords": "This is a People First post that was originally on the People First domain. It has been moved here as part of my domain consolidation program. It’s a steady and slow WIP as I check each entry, so do please bear with me.",
 	"data": "data",
+	
 	"identity": "identity",
+	
 	"tech": "tech",
+	
 	"work": "work",
+	
 	"commerce": "commerce",
+	
 	"value": "value",
+	
 	"learning": "learning",
+	
 	"postasapage": "This is one of a series of posts that are serving as pages on the site.",
+	
 	"language": "Language is one of the 8 pillars of People First thinking where we explore the subtle art of manipulating conversation and dialogue through the careful choice of words. It’s rampant.",
+	
 	"glossary": "The glossary allows me to set one or more fixed footers on any post that are generated dynamically, so if I want to change anything - I change it once and it changes everywhere. This is an example of such a footer.",
-       "brokenyoutube": "If you are reading this post on my site, the inline video gives an error. Click on the link above. The 'error' is only because the creator wants you to got to YouTube to watch it.",
+		
 	"peoplefirstlink1": "https://www.craft.do/s/rnvOWQbKRHOUIj",
+	
 	"peoplefirstlink2": "https://john.philpin.com/categories/peoplefirst/",
+	
 	"whatisthispost": "https://www.craft.do/s/raZmxmS3JlMvZm",
-	"itsajoke": "https://documents.philpin.com/micro-blog/humour",
+	
 	"futureofwork": "https://www.craft.do/s/U1RIiwmmcJ434M"
 
 }
