@@ -1,1 +1,1 @@
-{{- with .Get 0 -}}<span class="glossary-term">{{ index $.Site.Data.glossaryData . }}</span>{{- end -}}
+{{- with .Get 0 -}}<span class="glossary-term">{{ index $.Site.Params.glossaryData . }}</span>{{- end -}}
