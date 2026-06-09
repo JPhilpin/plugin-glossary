@@ -1,1 +1,3 @@
-{{- with .Get 0 -}}<span class="glossary-term">{{ index $.Site.Params.glossaryData . }}</span>{{- end -}}
+{{ $glossary := $.Site.Params.glossaryData | unmarshal }}
+{{ $glossaryInput := .Get 0 }}
+{{- if $glossaryInput -}}<span class="glossary-term">{{ index $glossary $glossaryInput }}</span>{{- end -}}
